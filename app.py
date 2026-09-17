@@ -5,7 +5,7 @@ def resposta_guardiao(msg):
     if "idade" in msg or "quantos anos" in msg:
         return "A Lara tem 29 anos! 🖤 Dev Jr com energia de Sênior!"
     if "solteira" in msg or "namora" in msg or "casada" in msg:
-        return "Sim! Solteira sim! 💖 100% focada em código e em Cyber-Indaiatuba agora!"
+        return "Sim! Solteira sim! 💖 100% focada em código e em Cyber-Indaiatuba agora,casada com a tecnologia!"
     if "faculdade" in msg or "estuda" in msg or "formação" in msg or "curso" in msg:
         return "Faculdade? A VIDA! 🎓😂 Aprendi Python na raça, com Google, YouTube e muito erro .txt!"
     if "mora" in msg or "onde mora" in msg or "indaiatuba" in msg or "cidade" in msg:
